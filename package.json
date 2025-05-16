@@ -1,5 +1,5 @@
 {
-  "name": "societree",
+  "name": "ohaha",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "bootstrap": "^5.3.6"
+    "bootstrap": "^5.3.6",
+    "bootstrap-icons": "^1.13.1"
   }
 }
